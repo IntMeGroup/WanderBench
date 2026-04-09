@@ -1,0 +1,8 @@
+api_key: "YOUR_API_KEY_HERE"
+google_api_key: "YOUR_GOOGLE_API_KEY_HERE"
+server_keys:
+  ak: "YOUR_ACCESS_KEY_HERE"
+  sk: "YOUR_SECRET_KEY_HERE"
+cookie:
+  auth_tenant: "YOUR_AUTH_TENANT_HERE"
+  token: "YOUR_AUTH_TOKEN_HERE"
